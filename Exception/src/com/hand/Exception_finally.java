@@ -26,7 +26,6 @@ public class Exception_finally {
                 }catch (IOException ioe){
                     ioe.printStackTrace();
                 }
-
             }
             System.out.println("finally已经执行，回收资源");
         }
