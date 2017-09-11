@@ -11,6 +11,8 @@ class ExceptionEntity{
             System.out.print(x/y);
         }catch (Exception e){
             e.printStackTrace();
+        }finally {
+            System.out.println("一定会执行的操作");
         }
 
     }
@@ -21,7 +23,6 @@ public class Exception_01 {
     public static void main(String args[]){
         ExceptionEntity entity = new ExceptionEntity();
         entity.div(4,0);
-        System.out.println("over");
 
     }
 }
