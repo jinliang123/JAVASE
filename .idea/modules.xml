@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_demo1/Java8_demo1.iml" filepath="$PROJECT_DIR$/Java8_demo1/Java8_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_IO/Java_IO.iml" filepath="$PROJECT_DIR$/Java_IO/Java_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Thread/Java_Thread.iml" filepath="$PROJECT_DIR$/Java_Thread/Java_Thread.iml" />
+    </modules>
+  </component>
+</project>
